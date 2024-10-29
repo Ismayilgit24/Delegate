@@ -1,0 +1,14 @@
+D:\CodeAcademy\Delegate\Delegate\bin\Debug\net6.0\Delegate.exe
+D:\CodeAcademy\Delegate\Delegate\bin\Debug\net6.0\Delegate.deps.json
+D:\CodeAcademy\Delegate\Delegate\bin\Debug\net6.0\Delegate.runtimeconfig.json
+D:\CodeAcademy\Delegate\Delegate\bin\Debug\net6.0\Delegate.dll
+D:\CodeAcademy\Delegate\Delegate\bin\Debug\net6.0\Delegate.pdb
+D:\CodeAcademy\Delegate\Delegate\obj\Debug\net6.0\Delegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeAcademy\Delegate\Delegate\obj\Debug\net6.0\Delegate.AssemblyInfoInputs.cache
+D:\CodeAcademy\Delegate\Delegate\obj\Debug\net6.0\Delegate.AssemblyInfo.cs
+D:\CodeAcademy\Delegate\Delegate\obj\Debug\net6.0\Delegate.csproj.CoreCompileInputs.cache
+D:\CodeAcademy\Delegate\Delegate\obj\Debug\net6.0\Delegate.dll
+D:\CodeAcademy\Delegate\Delegate\obj\Debug\net6.0\refint\Delegate.dll
+D:\CodeAcademy\Delegate\Delegate\obj\Debug\net6.0\Delegate.pdb
+D:\CodeAcademy\Delegate\Delegate\obj\Debug\net6.0\Delegate.genruntimeconfig.cache
+D:\CodeAcademy\Delegate\Delegate\obj\Debug\net6.0\ref\Delegate.dll
